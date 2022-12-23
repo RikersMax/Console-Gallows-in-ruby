@@ -1,2 +1,2 @@
-# Gallows-in-ruby
+# Gallows-on-ruby
 Guess the word or die
