@@ -1,5 +1,6 @@
 
 class Game
+
 	require './result_print.rb'
 	def initialize 
 		@word = ''

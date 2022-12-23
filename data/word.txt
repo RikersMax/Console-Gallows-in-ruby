@@ -5,3 +5,6 @@ progress
 whenever
 colic
 modicum
+basin
+honeymoon
+opponent

@@ -1,3 +1,4 @@
+
  
 class Result
 	def initialize (word)

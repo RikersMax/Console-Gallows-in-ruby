@@ -1,5 +1,6 @@
 current_path = File.dirname(__FILE__)
 
+
 require current_path + "/result_print.rb"
 require current_path + "/game_class.rb"
 require current_path + "/rand_word.rb"
